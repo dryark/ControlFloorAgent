@@ -67,7 +67,7 @@
     "axios": "^0.x",
     "bluebird": "^3.5.5",
     "lodash": "^4.17.11",
-    "node-simctl": "^6.0.2",
+    "node-simctl": "^7.1.8",
     "source-map-support": "^0.5.12",
     "teen_process": "^1.14.1"
   },
