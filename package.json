@@ -45,7 +45,7 @@
   "devDependencies": {
     "appium-gulp-plugins": "^5.0.0",
     "appium-test-support": "^1.3.1",
-    "appium-xcode": "^3.8.0",
+    "appium-xcode": "^5.0.1",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "eslint-config-appium": "^4.0.1",
