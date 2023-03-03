@@ -49,7 +49,7 @@
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "eslint-config-appium": "^4.0.1",
-    "glob": "^7.1.0",
+    "glob": "^9.2.1",
     "gulp": "^4.0.2",
     "ios-uicatalog": "^3.5.0",
     "mocha": "^8.0.1",
